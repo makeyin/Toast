@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <DbCfg>
+      <Type>sql2008</Type>
+      <ConnctionString>server=.;uid=sa;pwd=123;database=aaa</ConnctionString>
+  </DbCfg>
+  <Cfg>
+    <Type>mysql</Type>
+    <ConnctionString>Server =localhost; Database =aaa; Uid =root; Pwd =abc123</ConnctionString>
+  </Cfg>
+</Root>
